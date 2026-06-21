@@ -1,15 +1,8 @@
-# skin.osmc
+# skin.kovilite
 
-The default skin for OSMC.
+A lightweight skin for the KOVI (KODI/XBMC) mediacenter
 
-For further information, check out the wiki here: https://osmc.tv/wiki/general/the-osmc-skin/
+## This skin is optimized for Android TV devices 
 
-## This skin is shipped with official releases of OSMC (https://osmc.tv/download/).
+Developer: Team KOVI (https://droidiptv.github.io)
 
-Follow these instructions to install the OSMC Skin on other platforms: https://osmcsk.in/
-
-Original skin: Andy Morton (https://github.com/BobCratchett)
-
-Original design: Simon Brunton (https://simonbrunton.com/)
-
-Skinner: Julian Michel (https://github.com/Ch1llb0/skin.osmc)
